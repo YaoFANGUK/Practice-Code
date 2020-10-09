@@ -45,3 +45,4 @@ class HttpServer:
 
 if __name__ == '__main__':
     HttpServer(9099).start()
+    type()
